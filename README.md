@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2> Hi, I'm </h2><h1> Raj Narayan Gupta ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<!--
-**prem43/prem43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer I have Two Years Of Experince In Dot Net Core MVC
+- :seedling: &nbsp;I’m currently learning **AI/ML**
+- 🎵: &nbsp;I love to Listen Music 
+- :mailbox: &nbsp;Ask me anything and Connect with me on my **[Instagram](https://instagram.com/raj__rr)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/rajguptaH/rajguptaH">
+    <img src="https://komarev.com/ghpvc/?username=rajguptaH" alt="page views" />
+  </a>
+
+<br>
+<a href="https://github.com/rajguptaH/rajguptaH/stargazers"><img src="https://img.shields.io/github/stars/rajguptaH/rajguptaH" alt="Stars Badge"/></a>
+
+### Quick stats about me
+
+ <img align="centre" src="https://github-readme-stats.vercel.app/api?username=rajguptaH&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajguptaH&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+  **Skills:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=rajguptaH&theme=discord&no-frame=true&no-bg=false&margin-w=4)
