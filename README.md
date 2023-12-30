@@ -1,24 +1,24 @@
-<h2> Hi, I'm </h2><h1> Raj Narayan Gupta ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h2> Hi, I'm </h2><h1> Prem Ranjan ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
-- :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer I have Two Years Of Experince In Dot Net Core MVC
+- :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer I have One Years Of Experince In Dot Net Core MVC
 - :seedling: &nbsp;I’m currently learning **AI/ML**
 - 🎵: &nbsp;I love to Listen Music 
-- :mailbox: &nbsp;Ask me anything and Connect with me on my **[Instagram](https://instagram.com/raj__rr)**
+- :mailbox: &nbsp;Ask me anything and Connect with me on my **[Instagram](https://www.instagram.com/prem_ranjan8540)**
 
-  <a href="https://github.com/rajguptaH/rajguptaH">
-    <img src="https://komarev.com/ghpvc/?username=rajguptaH" alt="page views" />
+  <a href="https://github.com/prem43">
+    <img src="https://komarev.com/ghpvc/?username=prem43" alt="page views" />
   </a>
 
 <br>
-<a href="https://github.com/rajguptaH/rajguptaH/stargazers"><img src="https://img.shields.io/github/stars/rajguptaH/rajguptaH" alt="Stars Badge"/></a>
+<a href="https://github.com/prem43/prem43/stargazers"><img src="https://img.shields.io/github/stars/prem43/prem43" alt="Stars Badge"/></a>
 
 ### Quick stats about me
 
- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=rajguptaH&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+ <img align="centre" src="https://github-readme-stats.vercel.app/api?username=prem43&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajguptaH&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem43&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
   **Skills:**  
 
@@ -33,4 +33,4 @@
   
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rajguptaH&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=prem43&theme=discord&no-frame=true&no-bg=false&margin-w=4)
