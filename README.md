@@ -2,7 +2,7 @@
 
 
 - :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer I have One Years Of Experince In Dot Net Core MVC
-- :seedling: &nbsp;I’m currently learning **AI/ML**
+- :seedling: &nbsp;I’m currently learning **Java**
 - 🎵: &nbsp;I love to Listen Music 
 - :mailbox: &nbsp;Ask me anything and Connect with me on my **[Instagram](https://www.instagram.com/prem_ranjan8540)**
 
