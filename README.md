@@ -1,8 +1,8 @@
 <h2> Hi, I'm </h2><h1> Prem Ranjan ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
-- :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer I have One Years Of Experince In Dot Net Core MVC
-- :seedling: &nbsp;I’m currently learning **Java**
+- :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer I have 2 Years Of Experince In Dot Net Core MVC
+- :seedling: &nbsp;I’m currently learning **AI/ML**
 - 🎵: &nbsp;I love to Listen Music 
 - :mailbox: &nbsp;Ask me anything and Connect with me on my **[Instagram](https://www.instagram.com/prem_ranjan8540)**
 
