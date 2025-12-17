@@ -92,8 +92,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem43&layou
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=prem43&theme=onedark&no-frame=true&row=1&column=6" />
+![](https://github-profile-trophy.vercel.app/?username=prem43&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
