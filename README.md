@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premranjan.se@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/prem43)
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="90"/>
-
 </div>
 
 ---
@@ -68,15 +66,11 @@ I specialize in **ASP.NET Core, C#, SQL Server**, and modern frontend frameworks
 <img height="170"
 src="https://github-readme-stats.vercel.app/api?username=prem43&show_icons=true&theme=dark&hide_border=true" />
 
-<img height="170"
-src="https://streak-stats.demolab.com?user=prem43&theme=dark&hide_border=true" />
+
 
 </div>
 
 <div align="center">
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem43&layout=compact&theme=dark&hide_border=true" />
 <!-- Top Languages -->
 <a href="https://github.com/prem43">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem43&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -95,6 +89,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem43&layou
 ![](https://github-profile-trophy.vercel.app/?username=prem43&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
+
 
 ---
 
