@@ -22,7 +22,7 @@ Hello! I'm a passionate **Full Stack .NET Core Developer** with over 3 years of 
 - 🌱 Learning **AI/ML** and **Cloud Architecture** (AWS/Azure)
 - 💡 Interested in **Microservices**, **DevOps**, and **Clean Architecture**
 - 🎵 Music enthusiast - helps me focus while coding
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **premranjan.se@gmail.com**
 
 ---
 
@@ -90,7 +90,7 @@ Hello! I'm a passionate **Full Stack .NET Core Developer** with over 3 years of 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prem43&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=prem43&theme=onedark&no-frame=true&row=2&column=4](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord))](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
