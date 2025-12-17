@@ -96,47 +96,6 @@ Hello! I'm a passionate **Full Stack .NET Core Developer** with over 3 years of 
 
 ---
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section updates automatically -->
-*Working on exciting .NET Core projects*
-<!--END_SECTION:activity-->
-
----
-
-## 🎯 Featured Projects
-
-### **[Project 1: E-Commerce Platform](https://github.com/prem43/project1)**
-Full-stack e-commerce solution built with .NET Core and React
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
-
-### **[Project 2: Task Management App](https://github.com/prem43/project2)**
-Real-time task management application with Angular and SignalR
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square)
-
-### **[Project 3: API Gateway](https://github.com/prem43/project3)**
-Microservices API Gateway with Ocelot and Docker
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable .NET Core APIs](https://yourblog.com/post1)
-- [Microservices Architecture Patterns](https://yourblog.com/post2)
-- [Clean Code Practices in C#](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
