@@ -4,7 +4,6 @@
 ### Full Stack .NET Core Developer | 3+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-ranjan-4b5484279/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prem_ranjan8540)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premranjan.se@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/prem43)
 
@@ -99,10 +98,6 @@ src="https://github-readme-stats.vercel.app/api?username=prem43&show_icons=true&
 
 <a href="https://www.linkedin.com/in/prem-ranjan-4b5484279/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/prem_ranjan8540" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:premranjan.se@gmail.com" target="_blank">
