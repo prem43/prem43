@@ -3,9 +3,9 @@
 # 👨‍💻 Prem Ranjan
 ### Full Stack .NET Core Developer | 3+ Years Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-ranjan-4b5484279/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prem_ranjan8540)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premranjan.se@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
@@ -16,7 +16,7 @@
 
 ## 📋 About Me
 
-Hello! I'm a passionate **Full Stack .NET Core Developer** with over 3 years of experience in building scalable web, desktop, and mobile applications. I thrive on solving complex problems and creating efficient, maintainable code.
+Hello! I'm a passionate **Full Stack .NET Core Developer** with over 3+ years of experience in building scalable web, desktop, and mobile applications. I thrive on solving complex problems and creating efficient, maintainable code.
 
 - 🔭 Currently working as a **Senior Software Engineer**
 - 🌱 Learning **AI/ML** and **Cloud Architecture** (AWS/Azure)
@@ -101,7 +101,7 @@ Hello! I'm a passionate **Full Stack .NET Core Developer** with over 3 years of 
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/prem-ranjan-4b5484279/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
@@ -110,7 +110,7 @@ Hello! I'm a passionate **Full Stack .NET Core Developer** with over 3 years of 
   <a href="https://instagram.com/prem_ranjan8540" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:premranjan.se@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/prem43" target="_blank">
