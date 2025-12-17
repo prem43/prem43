@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Prem Ranjan  
-### Full Stack .NET Core Developer | 3+ Years Experience
+### Software Engineer | 3+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-ranjan-4b5484279/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premranjan.se@gmail.com)
