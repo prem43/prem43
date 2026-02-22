@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Prem Ranjan  
-### Software Engineer | 3+ Years Experience
+### Software Engineer | 4+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-ranjan-4b5484279/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premranjan.se@gmail.com)
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am a **Full Stack .NET Core Developer** with **3+ years of professional experience** in designing, developing, and deploying scalable web applications.
+I am a **Full Stack .NET Core Developer** with **4+ years of professional experience** in designing, developing, and deploying scalable web applications.
 
 I specialize in **ASP.NET Core, C#, SQL Server**, and modern frontend frameworks like **React and Angular**. I follow **Clean Architecture**, write **maintainable code**, and enjoy solving real-world business problems.
 
