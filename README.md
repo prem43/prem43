@@ -57,7 +57,7 @@ Public repository activity and earned GitHub badges.
 </table>
 
 <p>
-<a href="https://github.com/prem43?tab=overview"><img width="100%" alt="Public GitHub contribution graph" src="https://ghchart.rshah.org/38bdf8/prem43" /></a>
+<a href="https://github.com/prem43?tab=overview"><img width="100%" alt="Public GitHub contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem43&amp;theme=github_dark" /></a>
 </p>
 
 ## Core stack
