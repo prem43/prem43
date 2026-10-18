@@ -38,11 +38,13 @@ I build web applications with **C# and ASP.NET Core**, connect them to **SQL Ser
 
 ## Activity & achievements
 
+Public repository activity and earned GitHub badges.
+
 <table>
 <tr>
 <td width="65%" valign="middle">
 <a href="https://github.com/prem43?tab=repositories">
-<img width="450" alt="Prem Ranjan's public GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=prem43&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=c9d1d9" />
+<img width="360" alt="Public GitHub repository statistics" src="https://github-readme-stats.vercel.app/api?username=prem43&amp;show_icons=true&amp;hide=prs,issues,contribs&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=c9d1d9" />
 </a>
 </td>
 <td width="35%" align="center" valign="middle">
