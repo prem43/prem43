@@ -17,24 +17,46 @@ I build web applications with **C# and ASP.NET Core**, connect them to **SQL Ser
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/prem43/QueueManagementSystem">Queue Management System ↗</a></h3>
+<h3><a href="https://github.com/prem43/QueueManagementSystem">Queue Management System →</a></h3>
 <p>Queue management with real-time updates and database-backed workflows.</p>
 <p><code>ASP.NET Core MVC</code> <code>SignalR</code><br><code>EF Core</code> <code>SQL Server</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/prem43/ShopEase">ShopEase ↗</a></h3>
+<h3><a href="https://github.com/prem43/ShopEase">ShopEase →</a></h3>
 <p>E-commerce workflows for authentication, products, shopping carts and orders.</p>
 <p><code>ASP.NET Core</code> <code>Dapper</code><br><code>React</code> <code>Next.js</code></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3><a href="https://github.com/prem43/ComponentHub">ComponentHub ↗</a></h3>
+<h3><a href="https://github.com/prem43/ComponentHub">ComponentHub →</a></h3>
 <p>A frontend showcase of authentication screens, dashboard layouts and reusable UI components.</p>
 <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
 </td>
 </tr>
 </table>
+
+## Activity & achievements
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+<a href="https://github.com/prem43?tab=repositories">
+<img width="450" alt="Prem Ranjan's public GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=prem43&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;icon_color=38bdf8&amp;text_color=c9d1d9" />
+</a>
+</td>
+<td width="35%" align="center" valign="middle">
+<p><strong>GitHub achievements</strong></p>
+<a href="https://github.com/prem43?achievement=pull-shark&amp;tab=achievements"><img width="80" alt="Pull Shark achievement" src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" /></a>
+<a href="https://github.com/prem43?achievement=yolo&amp;tab=achievements"><img width="80" alt="YOLO achievement" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" /></a>
+<p>Pull Shark ×2 &nbsp;·&nbsp; YOLO</p>
+</td>
+</tr>
+</table>
+
+<p>
+<a href="https://github.com/prem43?tab=overview"><img width="100%" alt="Public GitHub contribution graph" src="https://ghchart.rshah.org/38bdf8/prem43" /></a>
+</p>
 
 ## Core stack
 
